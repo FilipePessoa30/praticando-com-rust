@@ -1,4 +1,4 @@
-workspace = { members = ["alura_rust_cargo"] }
+workspace = { members = ["rust_test"] }
 [package]
 name ="Alura_rust"
 version = "0.0.1"

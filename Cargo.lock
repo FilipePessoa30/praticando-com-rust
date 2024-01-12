@@ -7,5 +7,5 @@ name = "Alura_rust"
 version = "0.0.1"
 
 [[package]]
-name = "alura_rust_cargo"
+name = "rust_test"
 version = "0.1.0"
