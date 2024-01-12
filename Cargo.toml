@@ -1,0 +1,5 @@
+workspace = { members = ["alura_rust_cargo"] }
+[package]
+name ="Alura_rust"
+version = "0.0.1"
+authors = ["Filipe <Filipe.pessoa18@gmail.com>"]
