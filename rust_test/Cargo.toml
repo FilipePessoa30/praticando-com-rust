@@ -1,5 +1,5 @@
 [package]
-name = "alura_rust_cargo"
+name = "rust_test"
 version = "0.1.0"
 edition = "2021"
 
